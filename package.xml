@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package>
+  <name>poppy_torso_description</name>
+  <version>0.0.0</version>
+  <description>Poppy Torso URDF description</description>
+  <maintainer email="yoan.mollard@inria.fr">Yoan Mollard</maintainer>
+  <license>GPL3</license>
+  <url type="website">https://www.poppy-project.org/</url>
+  <buildtool_depend>catkin</buildtool_depend>
+  <export>
+  </export>
+</package>
